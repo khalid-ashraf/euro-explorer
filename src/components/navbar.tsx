@@ -1,4 +1,4 @@
-import { Link, useMatch } from "@tanstack/react-router";
+import { Link } from "@tanstack/react-router";
 
 const NavBar = () => {
   return (
